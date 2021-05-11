@@ -10,6 +10,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 
 //https://introcs.cs.princeton.edu/java/15inout/GUI.java.html
+//graphic user interface button & label
 
 public class GUI implements ActionListener {
 	
